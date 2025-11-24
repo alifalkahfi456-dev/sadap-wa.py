@@ -11,6 +11,6 @@
 ### Cara Pakai:
 ```bash
 pkg install python git -y
-git clone https://github.com/USERNAME/sadap-wa.py
+git clone https://github.com/alifalkahfi456-dev/sadap-wa.py.git
 cd sadap-wa.py
 python sadap-wa.py
